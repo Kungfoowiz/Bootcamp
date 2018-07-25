@@ -16,3 +16,11 @@
 .row {
     /* margin: 5px; */
 }
+
+.dropdown li {
+    padding-left: 10px;
+}
+
+.jumbotron {
+    padding-left: 30px;
+}
